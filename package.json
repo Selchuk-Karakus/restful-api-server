@@ -1,0 +1,19 @@
+{
+  "name": "restful-api-server",
+  "version": "1.0.0",
+  "description": "A RESTful API using Node, Express, and MongoDB. We will create endpoints for creating data, reading data, updating data, and deleting data (basic CRUD operations).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Selchuk-Karakus/restful-api-server.git"
+  },
+  "author": "selchuk-karakus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Selchuk-Karakus/restful-api-server/issues"
+  },
+  "homepage": "https://github.com/Selchuk-Karakus/restful-api-server#readme"
+}
